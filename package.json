@@ -1,19 +1,21 @@
 {
-	"name": "sveltekit-auth-example",
-	"description": "SvelteKit Authentication Example",
+	"name": "sveltekit-auth-boilerplate",
+	"description": "SvelteKit Authentication Boilerplate",
 	"version": "2.0.6",
 	"author": "Nate Stuyvesant",
-	"license": "https://github.com/nstuyvesant/sveltekit-auth-example/blob/master/LICENSE",
+	"license": "https://github.com/alijourney/sveltekt-auth-boilerplate/blob/master/LICENSE",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/nstuyvesant/sveltekit-auth-example.git"
+		"url": "https://github.com/alijourney/sveltekt-auth-boilerplate.git"
 	},
 	"bugs": {
-		"url": "https://github.com/nstuyvesant/sveltekit-auth-example/issues"
+		"url": "https://github.com/alijourney/sveltekt-auth-boilerplate/issues"
 	},
 	"keywords": [
 		"svelte",
 		"sveltekit",
+		"boilerplate",
+		"fullstack",
 		"authentication",
 		"example",
 		"google",
